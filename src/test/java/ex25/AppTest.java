@@ -7,8 +7,7 @@ import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 
-
-public class AppTest 
+public class AppTest
 {
 
     @org.junit.jupiter.api.Test
